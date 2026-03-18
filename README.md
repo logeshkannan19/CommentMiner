@@ -2,6 +2,9 @@
 
 **Stop guessing what your audience thinks. Start mining the gold in your comments.**
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://frontend-7hix9bcl7-logeshkannan19s-projects.vercel.app)
+
 CommentMiner is an AI-powered intelligence layer designed for founders and creators who are tired of scrolling through thousands of YouTube comments. We don't just "show" you sentiment; we surface the actual product insights, requested features, and recurring pain points that are buried in the noise.
 
 ## ✨ What it does for you
